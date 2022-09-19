@@ -1,0 +1,1 @@
+minha criação para github, se trata de uma extensão do google que eu fiz para eu mesmo usar.
